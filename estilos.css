@@ -1,0 +1,83 @@
+body {
+    font-family: Tahoma, sans-serif;
+
+}
+
+#navbar {}
+
+#navbar-nav-p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.yoga {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(145, 125, 155, 1) 50%, rgba(121, 80, 177, 0.6923144257703081) 100%);
+}
+
+.yoga2 {
+    background: #DCB9ED;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.yoga3 {
+    background: #DCB9ED;
+    background: rgb(145, 125, 155)
+}
+
+.yoga4 {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(145, 125, 155, 1) 50%, rgba(121, 80, 177, 0.6923144257703081) 100%);
+}
+
+#card {
+    background: rgb(145, 125, 155)
+}
+
+
+.tarjeta {
+    background: rgb(48, 16, 82);
+    background: linear-gradient(0deg, rgba(48, 16, 82, 0.7679446778711485) 0%, rgba(224, 202, 240, 1) 100%);
+}
+.video{
+    background: #b486b2;
+}
+
+
+footer{
+    background-color:#763f73; 
+}
+footer p{
+    color: #feffff;
+}
+footer a{
+    color: #04D9B2;
+}
+
+footer a:hover{
+    color: white;
+}
+.card .btn-secondary:hover{
+    background-color: #325259;;
+    color: #04D9B2;
+}
+
+#contacto .btn-secondary:hover{
+    background-color: #325259;;
+    color: #04D9B2;
+}
+
+footer .bi-bi-facebook{
+    background: #b486b2;
+}
